@@ -1,7 +1,7 @@
 
 print('''
 \033[96m
-        |ZERO ADMIN FINDER|
+        |NEUROSIS FINDER|
 +----------------------------------------
 |#FEITO POR: FISHER
 |#SCRIPT VOLTADO A FINS EDUCACIONAS
@@ -146,7 +146,4 @@ for hani in passe :
         print("\033[92m :::: ALERTE::: ADMIN PAGE ITS FOUND ::: "+curl)
         print("_____________________________________________________________")
     except urllib.error.URLError as msg :
-        print ("\033[91m **** SORRY NOT FOUND ::: "+curl)
-
-
-print ("-------------PARA TODO ANDARILHO QUE BUSCA REDENÇÃO----------------")
+        print ("\033[91m **** SORRY NOT FOUND ::: "+curl
