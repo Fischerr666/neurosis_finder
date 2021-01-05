@@ -3,7 +3,7 @@ print('''
 \033[96m
         |NEUROSIS FINDER|
 +----------------------------------------
-|#FEITO POR: FISCHER
+|#FEITO POR: Vult0'sh
 |#GRITO NO PYTHON E PROGRAMARIA
 |#^-^ SE DIVIRTA
 |#AGRADECIMENTOS A GOD HAND E CALLEUZ
